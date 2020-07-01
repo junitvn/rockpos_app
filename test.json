@@ -1,0 +1,52 @@
+{
+  "status": true,
+  "msg": "Successfully",
+  "data": {
+    "id_product": { "type": "string" },
+    "has_combinations": { "type": "string" },
+    "reference": { "type": "string" },
+    "name": { "type": "string" },
+    "multi_language": ["name1", "name2"],
+    "link_rewrite": { "type": "string" },
+    "id_shop": { "type": "string" },
+    "id_product_attribute": { "type": "string" },
+    "price": { "type": "number" },
+    "image_url": { "type": "string" },
+    "short_name": { "type": "string" },
+    "has_customizations": { "type": "string" },
+    "attributes": [
+      {
+        "id_attribute": { "type": "string" },
+        "id_attribute_group": { "type": "string" },
+        "attribute": { "type": "string" },
+        "group": { "type": "string" }
+      }
+    ],
+    "customizations": [
+      {
+        "id_customization": { "type": "number" },
+        "name": { "type": "string" },
+        "required": { "type": "boolean" },
+        "type": { "type": "string" }
+      }
+    ],
+    "combinations": [
+      {
+        "color": {
+          "id_attribute": { "type": "string" },
+          "id_attribute_group": { "type": "string" },
+          "attribute": { "type": "string" },
+          "group": { "type": "string" }
+        },
+        "size": {
+          "id_attribute": { "type": "string" },
+          "id_attribute_group": { "type": "string" },
+          "attribute": { "type": "string" },
+          "group": { "type": "string" }
+        },
+        "barcode": { "type": "string" },
+        "id_combanation": { "type": "string" }
+      }
+    ]
+  }
+}

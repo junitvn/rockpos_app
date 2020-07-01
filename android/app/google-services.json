@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "18759484474",
+    "firebase_url": "https://fir-auth-manager-7815a.firebaseio.com",
+    "project_id": "fir-auth-manager-7815a",
+    "storage_bucket": "fir-auth-manager-7815a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18759484474:android:829b98dd58ecef92",
+        "android_client_info": {
+          "package_name": "com.rockpos_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18759484474-lfudukafu5mljtgi5pq9gvctph828vst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc6gtUXOxfxUoO8zKg7uqDiiGJhSJ6kyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18759484474-lfudukafu5mljtgi5pq9gvctph828vst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
